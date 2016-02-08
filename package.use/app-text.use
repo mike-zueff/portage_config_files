@@ -1,0 +1,3 @@
+app-text/ghostscript-gpl cups
+app-text/poppler cairo qt4
+app-text/texlive-core xetex
