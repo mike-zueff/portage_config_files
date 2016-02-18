@@ -1,2 +1,0 @@
-*/*::sakaki-tools
-*/*::stunning_tools

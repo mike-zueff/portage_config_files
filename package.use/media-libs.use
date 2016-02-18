@@ -1,6 +1,0 @@
-media-libs/cogl gles2
-media-libs/gegl cairo
-media-libs/harfbuzz icu
-media-libs/libcanberra alsa
-media-libs/libpng apng
-media-libs/mesa gbm gles2 xa

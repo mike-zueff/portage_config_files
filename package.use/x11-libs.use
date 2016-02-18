@@ -1,4 +1,0 @@
-x11-libs/cairo xcb
-x11-libs/gdk-pixbuf jpeg
-x11-libs/libdrm libkms
-x11-libs/libxcb xkb
