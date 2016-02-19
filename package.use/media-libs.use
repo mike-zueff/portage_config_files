@@ -1,0 +1,3 @@
+media-libs/cogl gles2
+media-libs/libcanberra alsa
+media-libs/mesa gles2
