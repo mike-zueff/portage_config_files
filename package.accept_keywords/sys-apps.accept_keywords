@@ -1,0 +1,2 @@
+sys-apps/apparmor ~amd64
+sys-apps/apparmor-utils ~amd64
