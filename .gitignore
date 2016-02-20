@@ -1,7 +1,6 @@
-bin/post_sync
+bin
 make.conf.catalyst
 make.profile
-postsync.d/q-reinitialize
-repo.postsync.d/example
-savedconfig/sys-apps/busybox-1.24.1
-savedconfig/sys-kernel/linux-firmware-20151207
+postsync.d
+repo.postsync.d
+savedconfig
