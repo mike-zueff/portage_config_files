@@ -1,1 +1,1 @@
-app-portage/cpuinfo2cpuflags ~amd64
+app-portage/cpuinfo2cpuflags ~*

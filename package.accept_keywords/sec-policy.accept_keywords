@@ -1,1 +1,1 @@
-sec-policy/apparmor-profiles ~amd64
+sec-policy/apparmor-profiles ~*

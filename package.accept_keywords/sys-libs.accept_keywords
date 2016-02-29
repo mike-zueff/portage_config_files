@@ -1,1 +1,1 @@
-sys-libs/libapparmor ~amd64
+sys-libs/libapparmor ~*

@@ -1,1 +1,1 @@
-net-analyzer/arp-scan ~amd64
+net-analyzer/arp-scan ~*

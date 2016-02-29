@@ -1,7 +1,7 @@
-media-fonts/courier-prime ~amd64
-media-fonts/hack ~amd64
-media-fonts/heuristica ~amd64
-media-fonts/infinality-ultimate-meta ~amd64
-media-fonts/paratype ~amd64
-media-fonts/signika ~amd64
-media-fonts/tex-gyre ~amd64
+media-fonts/courier-prime ~*
+media-fonts/hack ~*
+media-fonts/heuristica ~*
+media-fonts/infinality-ultimate-meta ~*
+media-fonts/paratype ~*
+media-fonts/signika ~*
+media-fonts/tex-gyre ~*
