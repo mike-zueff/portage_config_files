@@ -1,2 +1,3 @@
 sys-apps/apparmor ~*
 sys-apps/apparmor-utils ~*
+sys-apps/lm_sensors ~*
