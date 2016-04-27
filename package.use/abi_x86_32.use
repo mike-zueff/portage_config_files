@@ -2,6 +2,7 @@ app-accessibility/at-spi2-atk  abi_x86_32
 app-accessibility/at-spi2-core abi_x86_32
 app-arch/bzip2                 abi_x86_32
 app-arch/lz4                   abi_x86_32
+app-arch/xz-utils              abi_x86_32
 dev-db/sqlite                  abi_x86_32
 dev-lang/orc                   abi_x86_32
 dev-libs/atk                   abi_x86_32
