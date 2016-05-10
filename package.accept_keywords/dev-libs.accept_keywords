@@ -1,3 +1,4 @@
+dev-libs/libclc ~*
 dev-libs/libgcrypt ~*
 dev-libs/nspr ~*
 dev-libs/nss ~*
