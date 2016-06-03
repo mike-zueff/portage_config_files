@@ -3,6 +3,7 @@ app-accessibility/at-spi2-core abi_x86_32
 app-arch/bzip2                 abi_x86_32
 app-arch/lz4                   abi_x86_32
 app-arch/xz-utils              abi_x86_32
+dev-db/mariadb                 abi_x86_32
 dev-db/sqlite                  abi_x86_32
 dev-lang/orc                   abi_x86_32
 dev-libs/atk                   abi_x86_32
@@ -70,7 +71,9 @@ virtual/jpeg                   abi_x86_32
 virtual/libffi                 abi_x86_32
 virtual/libiconv               abi_x86_32
 virtual/libintl                abi_x86_32
+virtual/libmysqlclient         abi_x86_32
 virtual/libudev                abi_x86_32
+virtual/mysql                  abi_x86_32
 virtual/opengl                 abi_x86_32
 virtual/pkgconfig              abi_x86_32
 x11-libs/cairo                 abi_x86_32
