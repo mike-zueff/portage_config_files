@@ -3,5 +3,7 @@ app-crypt/staticgpg::sakaki-tools
 app-portage/genup::sakaki-tools
 app-portage/showem::sakaki-tools
 app-text/goldendict::stunning_tools
+dev-util/cargo::rust
 media-gfx/escrotum::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
+virtual/rust::rust
