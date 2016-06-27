@@ -1,3 +1,2 @@
 dev-util/android-sdk-update-manager ~*
-dev-util/cargo **
 dev-util/shellcheck ~*

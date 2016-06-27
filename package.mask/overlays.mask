@@ -1,2 +1,3 @@
+*/*::rust
 */*::sakaki-tools
 */*::stunning_tools
