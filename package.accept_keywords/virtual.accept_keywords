@@ -29,4 +29,3 @@ virtual/perl-Text-ParseWords ~*
 virtual/perl-Time-HiRes ~*
 virtual/perl-parent ~*
 virtual/perl-version ~*
-virtual/rust ~*

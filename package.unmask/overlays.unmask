@@ -6,4 +6,4 @@ app-text/goldendict::stunning_tools
 dev-util/cargo::rust
 media-gfx/escrotum::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
-virtual/rust::rust
+x11-misc/compton::stunning_tools
