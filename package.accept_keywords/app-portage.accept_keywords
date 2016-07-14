@@ -1,2 +1,2 @@
-app-portage/cpuinfo2cpuflags ~*
+app-portage/cpuid2cpuflags ~*
 app-portage/genlop ~*
