@@ -1,1 +1,7 @@
-*/*::sakaki-tools ~*
+app-crypt/staticgpg::sakaki-tools ~*
+app-office/upwork::stunning_tools ~*
+app-portage/genup::sakaki-tools ~*
+app-portage/showem::sakaki-tools ~*
+media-gfx/escrotum::stunning_tools **
+sys-kernel/buildkernel::sakaki-tools ~*
+x11-misc/compton::stunning_tools **
