@@ -1,5 +1,6 @@
 app-crypt/efitools::sakaki-tools
 app-crypt/staticgpg::sakaki-tools
+app-office/upwork::stunning_tools
 app-portage/genup::sakaki-tools
 app-portage/showem::sakaki-tools
 app-text/goldendict::stunning_tools
