@@ -6,8 +6,3 @@ pre_pkg_preinst() {
   mv --force "${EROOT}usr/src/rust_tmp/src" "${EROOT}usr/src/rust"
   rm --force --recursive "${EROOT}usr/src/rust_tmp"
 }
-
-pre_pkg_prerm() {
-  rm --force --recursive "${EROOT}usr/src/rust"
-  rm --force --recursive "${EROOT}usr/src/rust_tmp"
-}
