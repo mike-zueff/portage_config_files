@@ -3,6 +3,7 @@ app-office/upwork::stunning_tools
 app-portage/genup::sakaki-tools
 app-portage/showem::sakaki-tools
 app-text/goldendict::stunning_tools
+dev-db/robomongo::stunning_tools
 media-gfx/escrotum::stunning_tools
 net-misc/cloud_foundry_cli::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
