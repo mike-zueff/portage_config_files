@@ -1,9 +1,9 @@
+app-admin/cloud_foundry_cli::stunning_tools **
 app-crypt/staticgpg::sakaki-tools ~*
 app-office/upwork::stunning_tools ~*
 app-portage/genup::sakaki-tools ~*
 app-portage/showem::sakaki-tools ~*
 dev-db/robomongo::stunning_tools ~*
 media-gfx/escrotum::stunning_tools **
-net-misc/cloud_foundry_cli::stunning_tools **
 sys-kernel/buildkernel::sakaki-tools ~*
 x11-misc/compton::stunning_tools **
