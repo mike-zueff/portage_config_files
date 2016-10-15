@@ -1,1 +1,11 @@
+dev-ruby/bundler ~*
+dev-ruby/hashicorp-checkpoint ~*
+dev-ruby/i18n ~*
+dev-ruby/listen ~*
+dev-ruby/net-ssh ~*
+dev-ruby/nokogiri ~*
+dev-ruby/pkg-config ~*
+dev-ruby/rb-inotify ~*
+dev-ruby/rest-client ~*
+dev-ruby/ruby_dep ~*
 dev-ruby/rubygems ~*
