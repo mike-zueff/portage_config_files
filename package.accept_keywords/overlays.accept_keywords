@@ -4,7 +4,7 @@ app-office/upwork::stunning_tools ~*
 app-portage/genup::sakaki-tools ~*
 app-portage/showem::sakaki-tools ~*
 dev-db/robomongo::stunning_tools ~*
+dev-lang/rust::rust ~*
 media-gfx/escrotum::stunning_tools **
 sys-kernel/buildkernel::sakaki-tools ~*
 x11-misc/compton::stunning_tools **
-x11-misc/lightdm-gtk-greeter::stunning_tools ~*

@@ -1,1 +1,2 @@
 sys-libs/libapparmor ~*
+sys-libs/libomp ~*
