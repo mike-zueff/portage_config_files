@@ -1,2 +1,0 @@
-=x11-drivers/nvidia-drivers-367.57
-=x11-drivers/nvidia-drivers-370.28
