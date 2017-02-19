@@ -1,4 +1,6 @@
 dev-util/android-sdk-update-manager ~*
 dev-util/cargo ~*
 dev-util/cmake ~*
+dev-util/rustfmt ~*
 dev-util/shellcheck ~*
+dev-util/valgrind ~*
