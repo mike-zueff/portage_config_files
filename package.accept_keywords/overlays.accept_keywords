@@ -1,9 +1,12 @@
 app-admin/cloud_foundry_cli::stunning_tools **
 app-crypt/staticgpg::sakaki-tools ~*
+app-eselect/eselect-rust::rust ~*
 app-portage/genup::sakaki-tools ~*
 app-portage/showem::sakaki-tools ~*
 dev-db/robomongo::stunning_tools ~*
 dev-lang/rust::rust ~*
+dev-util/cargo::rust ~*
+dev-util/rustfmt::rust ~*
 media-gfx/escrotum::stunning_tools **
 sys-kernel/buildkernel::sakaki-tools ~*
 x11-misc/compton::stunning_tools **

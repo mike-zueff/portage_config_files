@@ -1,3 +1,4 @@
+virtual/httpd-php ~*
 virtual/perl-CPAN-Meta ~*
 virtual/perl-CPAN-Meta-Requirements ~*
 virtual/perl-CPAN-Meta-YAML ~*
