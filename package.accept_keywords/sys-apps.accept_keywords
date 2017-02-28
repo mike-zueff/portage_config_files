@@ -1,4 +1,5 @@
 sys-apps/apparmor ~*
 sys-apps/apparmor-utils ~*
+sys-apps/inxi ~*
 sys-apps/lm_sensors ~*
 sys-apps/smartmontools ~*
