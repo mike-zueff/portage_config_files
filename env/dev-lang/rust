@@ -1,0 +1,8 @@
+pre_pkg_preinst() {
+  rm --force --recursive "${EROOT}usr/src/rust"
+  rm --force --recursive "${EROOT}usr/src/rust_tmp"
+
+  git clone https://github.com/rust-lang/rust.git "${EROOT}usr/src/rust_tmp"
+  mv --force "${EROOT}usr/src/rust_tmp/src" "${EROOT}usr/src/rust"
+  rm --force --recursive "${EROOT}usr/src/rust_tmp"
+}
