@@ -4,7 +4,7 @@ app-eselect/eselect-rust::rust
 app-portage/genup::sakaki-tools
 app-portage/showem::sakaki-tools
 dev-db/robomongo::stunning_tools
-dev-lang/rust::rust
+dev-lang/rust:stable::rust
 dev-util/cargo::rust
 dev-util/rustfmt::rust
 media-gfx/escrotum::stunning_tools

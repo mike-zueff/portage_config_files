@@ -1,1 +1,1 @@
-=dev-lang/rust-99
+=dev-lang/rust-99:beta::rust
