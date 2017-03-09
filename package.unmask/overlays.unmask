@@ -11,3 +11,5 @@ media-gfx/escrotum::stunning_tools
 sys-boot/plymouth::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
 x11-misc/compton::stunning_tools
+x11-misc/gxneur::stunning_tools
+x11-misc/xneur::stunning_tools
