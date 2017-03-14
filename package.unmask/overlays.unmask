@@ -8,6 +8,7 @@ dev-lang/rust:stable::rust
 dev-util/cargo::rust
 dev-util/rustfmt::rust
 media-gfx/escrotum::stunning_tools
+net-misc/wget::stunning_tools
 sys-boot/plymouth::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
 x11-misc/compton::stunning_tools
