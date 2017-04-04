@@ -1,4 +1,5 @@
 sys-libs/glibc debug
+sys-libs/ncurses:5 tinfo
 sys-libs/ntdb python
 sys-libs/tdb python
 sys-libs/tevent python
