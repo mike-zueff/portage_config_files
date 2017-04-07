@@ -3,4 +3,3 @@ make.conf.catalyst
 make.profile
 postsync.d
 repo.postsync.d
-savedconfig
