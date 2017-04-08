@@ -1,2 +1,2 @@
-app-misc/ca-certificates ~*
-app-misc/physlock ~*
+app-misc/ca-certificates
+app-misc/physlock

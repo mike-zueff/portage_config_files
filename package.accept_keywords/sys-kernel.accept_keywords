@@ -1,1 +1,2 @@
-sys-kernel/spl ~*
+sys-kernel/buildkernel
+sys-kernel/spl
