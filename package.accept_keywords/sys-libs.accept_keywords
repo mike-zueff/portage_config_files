@@ -1,4 +1,0 @@
-sys-libs/compiler-rt ~*
-sys-libs/compiler-rt-sanitizers ~*
-sys-libs/libapparmor ~*
-sys-libs/libomp ~*
