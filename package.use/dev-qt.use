@@ -1,1 +1,4 @@
+dev-qt/qtgui gtk
+dev-qt/qtlockedfile qt5
+dev-qt/qtsingleapplication qt5
 dev-qt/qtsql mysql

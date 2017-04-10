@@ -1,3 +1,4 @@
 app-crypt/gcr gtk
-app-crypt/gpgme -cxx
+app-crypt/gpgme cxx qt5
 app-crypt/pinentry gnome-keyring gtk
+app-crypt/qca qt5

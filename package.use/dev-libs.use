@@ -1,3 +1,4 @@
+dev-libs/boehm-gc threads
 dev-libs/boost python
 dev-libs/libdbusmenu-qt qt5
 dev-libs/libpcre pcre16

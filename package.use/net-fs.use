@@ -1,1 +1,1 @@
-net-fs/samba client winbind
+net-fs/samba -system-mitkrb5 addc client gnutls winbind python

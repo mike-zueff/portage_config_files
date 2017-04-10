@@ -6,6 +6,7 @@ app-arch/xz-utils              abi_x86_32
 dev-db/mariadb                 abi_x86_32
 dev-db/sqlite                  abi_x86_32
 dev-lang/orc                   abi_x86_32
+dev-lang/python-exec           abi_x86_32
 dev-libs/atk                   abi_x86_32
 dev-libs/elfutils              abi_x86_32
 dev-libs/expat                 abi_x86_32
@@ -22,6 +23,7 @@ dev-libs/libltdl               abi_x86_32
 dev-libs/libpcre               abi_x86_32
 dev-libs/libpthread-stubs      abi_x86_32
 dev-libs/libtasn1              abi_x86_32
+dev-libs/libunistring          abi_x86_32
 dev-libs/libxml2               abi_x86_32
 dev-libs/libxslt               abi_x86_32
 dev-libs/lzo                   abi_x86_32
@@ -57,6 +59,7 @@ media-libs/libvorbis           abi_x86_32
 media-libs/mesa                abi_x86_32
 media-plugins/alsa-plugins     abi_x86_32
 media-sound/pulseaudio         abi_x86_32
+net-dns/libidn2                abi_x86_32
 net-libs/gnutls                abi_x86_32
 net-libs/libasyncns            abi_x86_32
 net-print/cups                 abi_x86_32
@@ -66,11 +69,15 @@ sys-apps/systemd               abi_x86_32
 sys-apps/tcp-wrappers          abi_x86_32
 sys-apps/util-linux            abi_x86_32
 sys-devel/clang                abi_x86_32
+sys-devel/flex                 abi_x86_32
 sys-devel/gettext              abi_x86_32
 sys-devel/llvm                 abi_x86_32
 sys-libs/binutils-libs         abi_x86_32
+sys-libs/cracklib              abi_x86_32
+sys-libs/db                    abi_x86_32
 sys-libs/libcap                abi_x86_32
 sys-libs/ncurses               abi_x86_32
+sys-libs/pam                   abi_x86_32
 sys-libs/readline              abi_x86_32
 sys-libs/zlib                  abi_x86_32
 virtual/glu                    abi_x86_32
@@ -84,6 +91,7 @@ virtual/libudev                abi_x86_32
 virtual/mysql                  abi_x86_32
 virtual/opencl                 abi_x86_32
 virtual/opengl                 abi_x86_32
+virtual/pam                    abi_x86_32
 virtual/pkgconfig              abi_x86_32
 x11-libs/cairo                 abi_x86_32
 x11-libs/gdk-pixbuf            abi_x86_32
