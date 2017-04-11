@@ -1,1 +1,1 @@
-net-p2p/deluge -libnotify
+net-p2p/deluge -libnotify webinterface
