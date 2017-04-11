@@ -6,15 +6,12 @@ app-arch/xz-utils              abi_x86_32
 dev-db/mariadb                 abi_x86_32
 dev-db/sqlite                  abi_x86_32
 dev-lang/orc                   abi_x86_32
-dev-lang/python-exec           abi_x86_32
 dev-libs/atk                   abi_x86_32
 dev-libs/elfutils              abi_x86_32
 dev-libs/expat                 abi_x86_32
 dev-libs/glib                  abi_x86_32
 dev-libs/gmp                   abi_x86_32
 dev-libs/icu                   abi_x86_32
-dev-libs/jansson               abi_x86_32
-dev-libs/json-c                abi_x86_32
 dev-libs/libcroco              abi_x86_32
 dev-libs/libffi                abi_x86_32
 dev-libs/libgcrypt             abi_x86_32
@@ -35,7 +32,6 @@ dev-qt/qtdbus                  abi_x86_32
 dev-qt/qtgui                   abi_x86_32
 dev-qt/qtscript                abi_x86_32
 dev-qt/qtsql                   abi_x86_32
-dev-qt/qtwebkit                abi_x86_32
 dev-qt/qtxmlpatterns           abi_x86_32
 dev-util/pkgconfig             abi_x86_32
 gnome-base/librsvg             abi_x86_32
@@ -49,7 +45,6 @@ media-libs/gst-plugins-base    abi_x86_32
 media-libs/gstreamer           abi_x86_32
 media-libs/harfbuzz            abi_x86_32
 media-libs/lcms                abi_x86_32
-media-libs/libcanberra         abi_x86_32
 media-libs/libepoxy            abi_x86_32
 media-libs/libjpeg-turbo       abi_x86_32
 media-libs/libogg              abi_x86_32
@@ -88,7 +83,6 @@ virtual/libiconv               abi_x86_32
 virtual/libintl                abi_x86_32
 virtual/libmysqlclient         abi_x86_32
 virtual/libudev                abi_x86_32
-virtual/mysql                  abi_x86_32
 virtual/opencl                 abi_x86_32
 virtual/opengl                 abi_x86_32
 virtual/pam                    abi_x86_32
@@ -99,7 +93,6 @@ x11-libs/gtk+                  abi_x86_32
 x11-libs/libICE                abi_x86_32
 x11-libs/libSM                 abi_x86_32
 x11-libs/libX11                abi_x86_32
-x11-libs/libXScrnSaver         abi_x86_32
 x11-libs/libXau                abi_x86_32
 x11-libs/libXcomposite         abi_x86_32
 x11-libs/libXcursor            abi_x86_32
@@ -145,4 +138,3 @@ x11-proto/xf86driproto         abi_x86_32
 x11-proto/xf86vidmodeproto     abi_x86_32
 x11-proto/xineramaproto        abi_x86_32
 x11-proto/xproto               abi_x86_32
-x11-themes/gtk-engines-murrine abi_x86_32
