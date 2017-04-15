@@ -1,4 +1,5 @@
 post_src_install() {
   insinto /usr/src/${PN}
+  rm --force --recursive src/llvm/test
   doins -r src/*
 }
