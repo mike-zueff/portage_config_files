@@ -5,6 +5,8 @@ app-portage/genup::sakaki-tools
 app-portage/showem::sakaki-tools
 dev-db/robomongo::stunning_tools
 dev-qt/qtstyleplugins::stunning_tools
+dev-ruby/net-ssh-multi::stunning_tools
+dev-ruby/rhc::stunning_tools
 media-gfx/escrotum::stunning_tools
 sys-boot/plymouth::stunning_tools
 sys-fs/zfs-kmod::stunning_tools
