@@ -1,4 +1,5 @@
 app-admin/cloud_foundry_cli::stunning_tools
+app-admin/openshift_origin::stunning_tools
 app-crypt/staticgpg::sakaki-tools
 app-editors/vim::stunning_tools
 app-portage/genup::sakaki-tools
