@@ -14,6 +14,7 @@ sys-kernel/buildkernel::sakaki-tools
 x11-drivers/nvidia-drivers::stunning_tools
 x11-misc/compton::stunning_tools
 x11-misc/gxneur::stunning_tools
+x11-misc/xiccd::stunning_tools
 x11-misc/xneur::stunning_tools
 x11-terms/rxvt-unicode::stunning_tools
 x11-themes/tango-icon-theme::stunning_tools
