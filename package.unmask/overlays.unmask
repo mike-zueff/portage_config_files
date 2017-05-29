@@ -11,7 +11,6 @@ media-gfx/escrotum::stunning_tools
 sys-boot/plymouth::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
 virtual/libtinfo::stunning_tools
-x11-drivers/nvidia-drivers::stunning_tools
 x11-misc/compton::stunning_tools
 x11-misc/gxneur::stunning_tools
 x11-misc/xiccd::stunning_tools
