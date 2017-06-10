@@ -1,2 +1,3 @@
+*/*::portage_sandbox
 */*::sakaki-tools
 */*::stunning_tools

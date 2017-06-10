@@ -54,6 +54,7 @@ media-libs/libjpeg-turbo       abi_x86_32
 media-libs/libogg              abi_x86_32
 media-libs/libpng              abi_x86_32
 media-libs/libsndfile          abi_x86_32
+media-libs/libtheora           abi_x86_32
 media-libs/libvorbis           abi_x86_32
 media-libs/mesa                abi_x86_32
 media-libs/tiff                abi_x86_32
