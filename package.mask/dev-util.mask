@@ -1,2 +1,0 @@
-=dev-util/ctags-20161028:0::gentoo
-=dev-util/ctags-20170704:0::gentoo
