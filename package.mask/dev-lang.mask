@@ -1,0 +1,2 @@
+dev-lang/ruby:2.3::gentoo
+dev-lang/ruby:2.4::gentoo
