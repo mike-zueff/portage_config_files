@@ -1,7 +1,1 @@
-dev-qt/qtcore qt3support
-dev-qt/qtdeclarative qt3support
-dev-qt/qtgui gtk qt3support
-dev-qt/qtlockedfile qt5
-dev-qt/qtopengl qt3support
-dev-qt/qtsingleapplication qt5
-dev-qt/qtsql qt3support
+dev-qt/qtgui gtk
