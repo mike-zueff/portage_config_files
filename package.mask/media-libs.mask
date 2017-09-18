@@ -1,0 +1,1 @@
+=media-libs/freetype-2.8.1:2::gentoo
