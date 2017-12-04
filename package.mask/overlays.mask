@@ -1,3 +1,4 @@
 */*::portage_sandbox
+*/*::rust
 */*::sakaki-tools
 */*::stunning_tools
