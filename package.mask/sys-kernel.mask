@@ -1,1 +1,1 @@
-<sys-kernel/gentoo-sources-4.15::gentoo
+<sys-kernel/gentoo-sources-4.16::gentoo
