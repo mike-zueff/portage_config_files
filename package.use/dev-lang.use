@@ -1,2 +1,3 @@
 dev-lang/php gd mysqli
 dev-lang/python sqlite
+dev-lang/rust LLVM_TARGETS: X86
