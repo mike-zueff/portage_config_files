@@ -6,7 +6,6 @@ dev-db/robomongo::stunning_tools
 dev-lang/rust::rust
 dev-qt/qtstyleplugins::stunning_tools
 dev-ruby/rhc::stunning_tools
-dev-util/cargo::rust
 media-gfx/escrotum::stunning_tools
 sys-apps/coreboot-utils::sakaki-tools
 sys-apps/usbtop::stunning_tools
