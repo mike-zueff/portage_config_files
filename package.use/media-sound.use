@@ -1,1 +1,1 @@
-media-sound/pulseaudio gnome zeroconf
+media-sound/pulseaudio -gsettings gnome
