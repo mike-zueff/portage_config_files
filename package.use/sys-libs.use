@@ -1,3 +1,4 @@
+sys-libs/ncurses:0 -ada
 sys-libs/ncurses:5 tinfo
 sys-libs/tdb python
 sys-libs/tevent python
