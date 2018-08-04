@@ -1,2 +1,0 @@
-=dev-lang/gnat-gpl-2018:7.3.0::gentoo
->=dev-lang/ruby-2.4::gentoo
