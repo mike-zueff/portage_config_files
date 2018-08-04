@@ -1,4 +1,3 @@
-app-admin/openshift_origin::stunning_tools
 app-crypt/staticgpg::sakaki-tools
 app-portage/cargo-ebuild::rust
 app-portage/genup::sakaki-tools
@@ -11,6 +10,7 @@ media-gfx/escrotum::stunning_tools
 net-vpn/miredo::stunning_tools
 sys-apps/coreboot-utils::sakaki-tools
 sys-apps/usbtop::stunning_tools
+sys-cluster/origin::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
 virtual/libtinfo::stunning_tools
 virtual/rust::rust
