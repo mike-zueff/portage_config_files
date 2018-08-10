@@ -7,7 +7,6 @@ dev-lang/rust::rust
 dev-qt/qtstyleplugins::stunning_tools
 dev-util/rustfmt::rust
 media-gfx/escrotum::stunning_tools
-net-vpn/miredo::stunning_tools
 sys-apps/coreboot-utils::sakaki-tools
 sys-apps/usbtop::stunning_tools
 sys-cluster/origin::stunning_tools
