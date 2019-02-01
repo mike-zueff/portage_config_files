@@ -11,6 +11,7 @@ sys-apps/coreboot-utils::sakaki-tools
 sys-apps/usbtop::stunning_tools
 sys-cluster/origin::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
+virtual/cargo::rust
 virtual/libtinfo::stunning_tools
 virtual/rust::rust
 x11-misc/gxneur::stunning_tools
