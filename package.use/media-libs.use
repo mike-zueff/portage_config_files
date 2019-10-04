@@ -1,5 +1,5 @@
 media-libs/cogl gles2
 media-libs/libcanberra alsa
-media-libs/libvpx postproc
+media-libs/libvpx postproc svc
 media-libs/mesa -vulkan gles2
 media-libs/phonon -vlc

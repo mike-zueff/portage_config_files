@@ -1,2 +1,2 @@
-dev-lang/php gd mysqli
+dev-lang/php curl gd mysqli pdo sqlite xmlwriter zip
 dev-lang/python sqlite
