@@ -1,3 +1,3 @@
-dev-lang/php curl gd mysqli pdo sqlite xmlwriter zip
+dev-lang/php curl gd mysqli sqlite zip
 dev-lang/python sqlite
 dev-lang/rust LLVM_TARGETS: WebAssembly
