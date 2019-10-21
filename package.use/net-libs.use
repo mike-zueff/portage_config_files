@@ -1,3 +1,2 @@
 net-libs/libpcap usb
-net-libs/libpsl -idn
 net-libs/libtorrent-rasterbar python
