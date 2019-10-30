@@ -3,6 +3,7 @@ app-accessibility/at-spi2-core abi_x86_32
 app-arch/bzip2                 abi_x86_32
 app-arch/lz4                   abi_x86_32
 app-arch/xz-utils              abi_x86_32
+app-arch/zstd                  abi_x86_32
 dev-db/mariadb                 abi_x86_32
 dev-db/mariadb-connector-c     abi_x86_32
 dev-db/mysql-connector-c       abi_x86_32
@@ -63,6 +64,7 @@ media-libs/libtheora           abi_x86_32
 media-libs/libvorbis           abi_x86_32
 media-libs/libwebp             abi_x86_32
 media-libs/mesa                abi_x86_32
+media-libs/opus                abi_x86_32
 media-libs/tiff                abi_x86_32
 media-plugins/alsa-plugins     abi_x86_32
 media-sound/pulseaudio         abi_x86_32
