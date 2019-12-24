@@ -1,3 +1,4 @@
+media-libs/babl introspection
 media-libs/cogl gles2
 media-libs/libcanberra alsa
 media-libs/mesa -vulkan gles2
