@@ -3,7 +3,6 @@ app-crypt/staticgpg::sakaki-tools
 app-portage/genup::sakaki-tools
 app-portage/showem::sakaki-tools
 dev-qt/qtstyleplugins::stunning_tools
-media-gfx/escrotum::stunning_tools
 sys-apps/coreboot-utils::sakaki-tools
 sys-cluster/origin::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
