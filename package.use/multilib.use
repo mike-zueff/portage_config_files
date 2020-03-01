@@ -94,6 +94,7 @@ sys-libs/readline              abi_x86_32
 sys-libs/zlib                  abi_x86_32
 virtual/glu                    abi_x86_32
 virtual/jpeg                   abi_x86_32
+virtual/libcrypt               abi_x86_32
 virtual/libelf                 abi_x86_32
 virtual/libffi                 abi_x86_32
 virtual/libgudev               abi_x86_32
