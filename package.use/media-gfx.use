@@ -1,2 +1,2 @@
-media-gfx/imagemagick -openmp
+media-gfx/imagemagick -openmp xml
 media-gfx/sane-backends usb

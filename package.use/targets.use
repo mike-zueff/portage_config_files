@@ -1,6 +1,2 @@
 */* PYTHON_TARGETS: -python2_7
 dev-lang/rust LLVM_TARGETS: WebAssembly
-dev-python/certifi PYTHON_TARGETS: python2_7
-dev-python/pycairo PYTHON_TARGETS: python2_7
-dev-python/pygobject PYTHON_TARGETS: python2_7
-dev-python/setuptools PYTHON_TARGETS: python2_7
