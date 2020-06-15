@@ -1,6 +1,6 @@
-sys-kernel/gentoo-sources:5.7.0
-sys-kernel/gentoo-sources:5.7.1
-sys-kernel/gentoo-sources:5.7.2
+sys-kernel/gentoo-sources:5.10.0
+sys-kernel/gentoo-sources:5.10.1
+sys-kernel/gentoo-sources:5.10.2
 sys-kernel/gentoo-sources:5.8.0
 sys-kernel/gentoo-sources:5.8.1
 sys-kernel/gentoo-sources:5.8.2
