@@ -6,3 +6,4 @@ dev-qt/qtstyleplugins::stunning_tools
 sys-apps/coreboot-utils::sakaki-tools
 sys-cluster/origin::stunning_tools
 sys-kernel/buildkernel::sakaki-tools
+x11-misc/compton::stunning_tools
