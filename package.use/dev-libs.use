@@ -2,7 +2,6 @@ dev-libs/boost python
 dev-libs/libgusb vala
 dev-libs/libjcat pkcs7
 dev-libs/libpcre2 pcre16
-dev-libs/libuv static-libs
 dev-libs/libxml2 python
 dev-libs/protobuf python
 dev-libs/xmlsec nss
