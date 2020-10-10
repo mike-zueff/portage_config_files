@@ -9,6 +9,7 @@ dev-db/mariadb-connector-c     abi_x86_32
 dev-db/mysql-connector-c       abi_x86_32
 dev-db/sqlite                  abi_x86_32
 dev-lang/orc                   abi_x86_32
+dev-lang/rust                  abi_x86_32
 dev-libs/atk                   abi_x86_32
 dev-libs/elfutils              abi_x86_32
 dev-libs/expat                 abi_x86_32
@@ -17,6 +18,7 @@ dev-libs/glib                  abi_x86_32
 dev-libs/gmp                   abi_x86_32
 dev-libs/icu                   abi_x86_32
 dev-libs/libcroco              abi_x86_32
+dev-libs/libevent              abi_x86_32
 dev-libs/libffi                abi_x86_32
 dev-libs/libgcrypt             abi_x86_32
 dev-libs/libgpg-error          abi_x86_32
@@ -69,9 +71,11 @@ media-libs/opus                abi_x86_32
 media-libs/tiff                abi_x86_32
 media-plugins/alsa-plugins     abi_x86_32
 media-sound/pulseaudio         abi_x86_32
+net-dns/avahi                  abi_x86_32
 net-dns/libidn2                abi_x86_32
 net-libs/gnutls                abi_x86_32
 net-libs/libasyncns            abi_x86_32
+net-libs/nghttp2               abi_x86_32
 net-misc/curl                  abi_x86_32
 net-print/cups                 abi_x86_32
 sys-apps/attr                  abi_x86_32
@@ -87,6 +91,7 @@ sys-devel/llvm                 abi_x86_32
 sys-libs/binutils-libs         abi_x86_32
 sys-libs/cracklib              abi_x86_32
 sys-libs/db                    abi_x86_32
+sys-libs/gdbm                  abi_x86_32
 sys-libs/libcap                abi_x86_32
 sys-libs/ncurses               abi_x86_32
 sys-libs/ncurses-compat        abi_x86_32
@@ -108,6 +113,7 @@ virtual/opencl                 abi_x86_32
 virtual/opengl                 abi_x86_32
 virtual/pam                    abi_x86_32
 virtual/pkgconfig              abi_x86_32
+virtual/rust                   abi_x86_32
 x11-base/xcb-proto             abi_x86_32
 x11-libs/cairo                 abi_x86_32
 x11-libs/gdk-pixbuf            abi_x86_32

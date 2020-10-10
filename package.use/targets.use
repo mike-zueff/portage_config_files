@@ -1,2 +1,1 @@
-*/* PYTHON_TARGETS: -python2_7
 dev-lang/rust LLVM_TARGETS: WebAssembly
