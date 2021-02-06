@@ -1,4 +1,0 @@
-post_src_install() {
-  insinto /usr/src/${PN}
-  doins -r src/*
-}
