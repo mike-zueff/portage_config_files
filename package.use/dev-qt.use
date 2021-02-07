@@ -1,3 +1,4 @@
 dev-qt/qtgui gtk
+dev-qt/qtmultimedia widgets
 dev-qt/qtwebchannel qml
 dev-qt/qtwebengine widgets

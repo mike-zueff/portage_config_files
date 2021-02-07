@@ -1,7 +1,8 @@
 dev-libs/boost python
 dev-libs/libgusb vala
 dev-libs/libjcat pkcs7
-dev-libs/libpcre2 pcre16
+dev-libs/libpcre2 pcre16 pcre32
 dev-libs/libxml2 python
 dev-libs/protobuf python
+dev-libs/qtkeychain gnome-keyring
 dev-libs/xmlsec nss

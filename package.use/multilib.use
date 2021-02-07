@@ -92,6 +92,7 @@ sys-libs/binutils-libs         abi_x86_32
 sys-libs/cracklib              abi_x86_32
 sys-libs/db                    abi_x86_32
 sys-libs/gdbm                  abi_x86_32
+sys-libs/gpm                   abi_x86_32
 sys-libs/libcap                abi_x86_32
 sys-libs/ncurses               abi_x86_32
 sys-libs/ncurses-compat        abi_x86_32
