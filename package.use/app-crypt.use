@@ -1,3 +1,1 @@
-app-crypt/gcr gtk vala
-app-crypt/gpgme cxx
-app-crypt/pinentry gnome-keyring gtk
+app-crypt/pinentry gnome-keyring
