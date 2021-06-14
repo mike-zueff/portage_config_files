@@ -1,1 +1,1 @@
-net-p2p/deluge -libnotify gtk webinterface
+net-p2p/deluge -libnotify webinterface
