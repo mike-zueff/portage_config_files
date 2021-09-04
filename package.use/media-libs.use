@@ -1,3 +1,7 @@
+media-libs/babl introspection
 media-libs/cogl gles2
 media-libs/freetype harfbuzz
+media-libs/gegl introspection
 media-libs/libvpx postproc
+media-libs/mlt frei0r jack ffmpeg
+media-libs/opencv -cuda -gtk3
