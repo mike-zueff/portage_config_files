@@ -1,1 +1,2 @@
 dev-lang/rust LLVM_TARGETS: WebAssembly
+sys-libs/libomp LLVM_TARGETS: NVPTX
