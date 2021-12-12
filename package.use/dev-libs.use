@@ -1,4 +1,3 @@
 dev-libs/boost python
-dev-libs/libjcat pkcs7
 dev-libs/libpcre2 pcre32
 dev-libs/qtkeychain gnome-keyring
