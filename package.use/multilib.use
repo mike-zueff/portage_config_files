@@ -1,4 +1,6 @@
 sys-libs/gpm            abi_x86_32
+sys-libs/libxcrypt      abi_x86_32
 sys-libs/ncurses        abi_x86_32
 sys-libs/ncurses-compat abi_x86_32
 sys-libs/zlib           abi_x86_32
+virtual/libcrypt        abi_x86_32
