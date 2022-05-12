@@ -1,1 +1,1 @@
-=sys-kernel/gentoo-sources-5.17*
+=sys-kernel/gentoo-sources-5.18*

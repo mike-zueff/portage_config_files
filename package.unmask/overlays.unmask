@@ -5,5 +5,5 @@ app-text/goldendict::stunning_tools
 dev-qt/qtwebkit::stunning_tools
 sys-apps/coreboot-utils::sakaki-tools
 sys-cluster/origin::stunning_tools
-sys-kernel/buildkernel::sakaki-tools
+sys-kernel/buildkernel::stunning_tools
 sys-kernel/genkernel-next::sakaki-tools
