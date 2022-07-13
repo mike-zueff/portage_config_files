@@ -1,1 +1,2 @@
 dev-lang/php calendar curl gd mysqli sqlite zip
+dev-lang/rust miri nightly profiler
