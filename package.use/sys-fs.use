@@ -1,1 +1,2 @@
+sys-fs/lvm2 lvm thin
 sys-fs/zfs-auto-snapshot -cron
