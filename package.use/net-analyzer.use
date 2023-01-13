@@ -1,1 +1,2 @@
+net-analyzer/mtr -gtk
 net-analyzer/tcpdump suid
