@@ -1,2 +1,3 @@
+*/*::guru
 */*::portage_sandbox
 */*::stunning_tools
