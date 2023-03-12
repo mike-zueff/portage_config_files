@@ -1,1 +1,1 @@
-=x11-terms/rxvt-unicode-9.31:0/0::gentoo
+=x11-terms/rxvt-unicode-9.31::gentoo
