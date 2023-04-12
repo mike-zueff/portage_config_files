@@ -1,4 +1,0 @@
-=app-containers/docker-23.0.1::gentoo
-=app-containers/docker-cli-23.0.1::gentoo
-=app-containers/docker-compose-2.16.0::gentoo
-=app-containers/docker-proxy-0.8.0_p20230118::gentoo
