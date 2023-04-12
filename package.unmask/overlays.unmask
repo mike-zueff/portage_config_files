@@ -1,4 +1,5 @@
 app-crypt/staticgpg::stunning_tools
+app-misc/fastfetch::guru
 app-portage/genup::stunning_tools
 app-portage/showem::stunning_tools
 app-text/goldendict::stunning_tools
