@@ -1,3 +1,2 @@
-dev-lang/php:8.2
 dev-lang/python:3.12
 dev-lang/ruby:3.2
