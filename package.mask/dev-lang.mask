@@ -2,4 +2,5 @@ dev-lang/php:8.3
 dev-lang/python:3.12
 dev-lang/python:3.13
 dev-lang/ruby:3.2
+dev-lang/ruby:3.3
 dev-lang/rust-bin
