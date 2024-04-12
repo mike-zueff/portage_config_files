@@ -1,2 +1,2 @@
-dev-qt/qtmultimedia widgets
+dev-qt/qtbase wayland
 dev-qt/qtwayland compositor qml
