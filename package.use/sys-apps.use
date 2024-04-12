@@ -1,1 +1,1 @@
-sys-apps/fwupd amt archive dell flashrom gnutls gusb spi
+sys-apps/fwupd amt flashrom gnutls spi
