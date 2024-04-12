@@ -1,11 +1,9 @@
 app-crypt/staticgpg::stunning_tools
-app-misc/fastfetch::guru
 app-portage/genup::stunning_tools
 app-portage/showem::stunning_tools
 app-text/goldendict::stunning_tools
 dev-libs/polyseed::guru
 dev-qt/qtwebkit::stunning_tools
-net-im/telegram-desktop::joecool-overlay
 net-p2p/feather::guru
 sys-cluster/origin::stunning_tools
 sys-kernel/buildkernel::stunning_tools
