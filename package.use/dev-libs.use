@@ -1,4 +1,2 @@
 dev-libs/boost python
-dev-libs/libpcre2 pcre32
 dev-libs/qtkeychain keyring
-dev-libs/sexpp static-libs
