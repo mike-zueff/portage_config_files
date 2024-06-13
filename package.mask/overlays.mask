@@ -1,4 +1,3 @@
 */*::guru
-*/*::joecool-overlay
 */*::portage_sandbox
 */*::stunning_tools
