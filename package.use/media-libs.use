@@ -2,5 +2,5 @@ media-libs/cogl gles2
 media-libs/freetype harfbuzz
 media-libs/libvpx postproc
 media-libs/mlt ffmpeg frei0r jack
-media-libs/opencv -gtk3 contrib contribdnn
+media-libs/opencv contrib contribdnn
 media-libs/opus custom-modes
