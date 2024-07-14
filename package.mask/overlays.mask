@@ -1,3 +1,5 @@
 */*::guru
+*/*::pg_overlay
+*/*::php-overlay
 */*::portage_sandbox
 */*::stunning_tools
