@@ -1,3 +1,1 @@
-dev-qt/qt5compat qml
-dev-qt/qtbase wayland
-dev-qt/qtwayland compositor qml
+dev-qt/qtwayland compositor
