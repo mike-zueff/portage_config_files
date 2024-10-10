@@ -25,3 +25,4 @@ net-p2p/feather::guru
 sys-cluster/origin::stunning_tools
 sys-kernel/buildkernel::stunning_tools
 sys-kernel/genkernel-next::stunning_tools
+x11-themes/qt6gtk2::stunning_tools
