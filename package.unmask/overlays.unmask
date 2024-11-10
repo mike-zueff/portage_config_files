@@ -3,10 +3,13 @@ app-portage/genup::stunning_tools
 app-portage/showem::stunning_tools
 app-text/goldendict-ng::pg_overlay
 dev-libs/polyseed::guru
+dev-php/ca-bundle::php-overlay
 dev-php/class-map-generator::php-overlay
 dev-php/composer::php-overlay
+dev-php/json-schema::php-overlay
 dev-php/pcre::php-overlay
 dev-php/phar-utils::php-overlay
+dev-php/reactphp-promise::php-overlay
 dev-php/semver::php-overlay
 dev-php/signal-handler::php-overlay
 dev-php/symfony-deprecation-contracts::php-overlay
