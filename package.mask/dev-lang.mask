@@ -3,4 +3,5 @@ dev-lang/python:3.13t
 dev-lang/python:3.14
 dev-lang/python:3.14t
 dev-lang/ruby:3.3
+dev-lang/ruby:3.4
 dev-lang/rust-bin
