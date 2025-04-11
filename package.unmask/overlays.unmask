@@ -7,9 +7,15 @@ dev-php/ca-bundle::php-overlay
 dev-php/class-map-generator::php-overlay
 dev-php/composer::php-overlay
 dev-php/json-schema::php-overlay
+dev-php/justinrainbow-json-schema::php-overlay
 dev-php/pcre::php-overlay
 dev-php/phar-utils::php-overlay
+dev-php/psr-container::php-overlay
+dev-php/react-promise::php-overlay
 dev-php/reactphp-promise::php-overlay
+dev-php/seld-jsonlint::php-overlay
+dev-php/seld-phar-utils::php-overlay
+dev-php/seld-signal-handler::php-overlay
 dev-php/semver::php-overlay
 dev-php/signal-handler::php-overlay
 dev-php/symfony-deprecation-contracts::php-overlay
@@ -19,6 +25,7 @@ dev-php/symfony-polyfill-ctype::php-overlay
 dev-php/symfony-polyfill-intl-grapheme::php-overlay
 dev-php/symfony-polyfill-intl-normalizer::php-overlay
 dev-php/symfony-polyfill-mbstring::php-overlay
+dev-php/symfony-polyfill-php73::php-overlay
 dev-php/symfony-polyfill-php80::php-overlay
 dev-php/symfony-polyfill-php81::php-overlay
 dev-php/symfony-process::php-overlay
