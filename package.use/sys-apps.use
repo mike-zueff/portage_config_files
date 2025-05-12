@@ -1,1 +1,2 @@
 sys-apps/fwupd amt flashrom gnutls spi
+sys-apps/util-linux tty-helpers
