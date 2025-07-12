@@ -1,2 +1,9 @@
 dev-libs/boost -~amd64
+dev-libs/gobject-introspection -~amd64
+dev-libs/gobject-introspection-common -~amd64
 dev-libs/icu -~amd64
+dev-libs/libassuan -~amd64
+dev-libs/libevent -~amd64
+dev-libs/libtasn1 -~amd64
+dev-libs/libxml2 -~amd64
+dev-libs/xmlsec -~amd64
