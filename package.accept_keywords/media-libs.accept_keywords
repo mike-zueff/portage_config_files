@@ -1,0 +1,10 @@
+media-libs/harfbuzz -~amd64
+media-libs/libavif -~amd64
+media-libs/libjpeg-turbo -~amd64
+media-libs/libjxl -~amd64
+media-libs/libpng -~amd64
+media-libs/libva -~amd64
+media-libs/libwebp -~amd64
+media-libs/openjpeg -~amd64
+media-libs/tiff -~amd64
+media-libs/zxing-cpp -~amd64

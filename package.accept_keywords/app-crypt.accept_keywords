@@ -1,0 +1,2 @@
+app-crypt/argon2 -~amd64
+app-crypt/gpgme -~amd64
