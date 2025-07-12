@@ -1,2 +1,3 @@
 app-text/goldendict-ng **
+app-text/hunspell -~amd64
 app-text/poppler -~amd64
