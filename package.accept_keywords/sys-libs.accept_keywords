@@ -1,2 +1,3 @@
 sys-libs/binutils-libs -~amd64
 sys-libs/glibc -~amd64
+sys-libs/zlib -~amd64
