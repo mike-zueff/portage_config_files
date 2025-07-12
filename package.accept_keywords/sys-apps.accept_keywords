@@ -1,2 +1,1 @@
-sys-apps/gentoo-systemd-integration -~amd64
 sys-apps/systemd -~amd64
