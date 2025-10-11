@@ -1,1 +1,1 @@
-dev-lang/rust LLVM_TARGETS: WebAssembly
+dev-lang/rust LLVM_TARGETS: BPF WebAssembly
