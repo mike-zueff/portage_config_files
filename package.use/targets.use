@@ -1,1 +1,1 @@
-dev-lang/rust LLVM_TARGETS: BPF WebAssembly
+dev-lang/rust LLVM_TARGETS: BPF WebAssembly RUST_SYSROOTS: bpf wasm

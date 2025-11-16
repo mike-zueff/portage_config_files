@@ -28,6 +28,7 @@ dev-php/symfony-polyfill-php81::php-overlay
 dev-php/symfony-process::php-overlay
 dev-php/symfony-service-contracts::php-overlay
 dev-php/symfony-string::php-overlay
+dev-util/bc-ur::guru
 net-misc/gdrive::guru
 net-p2p/feather::guru
 sys-cluster/origin::stunning_tools
