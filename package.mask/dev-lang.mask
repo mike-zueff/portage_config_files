@@ -1,5 +1,5 @@
-dev-lang/php:8.5
 dev-lang/python:3.14
 dev-lang/python:3.15
 dev-lang/ruby:3.4
+dev-lang/ruby:4.0
 dev-lang/rust-bin
