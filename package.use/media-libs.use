@@ -4,6 +4,7 @@ media-libs/gegl introspection
 media-libs/libbluray java utils
 media-libs/libcanberra-gtk3 gnome
 media-libs/libvpx postproc
-media-libs/mlt ffmpeg frei0r jack
+media-libs/mlt frei0r jack
 media-libs/opencv contrib contribdnn features2d python
+media-libs/openh264 utils
 media-libs/opus custom-modes
