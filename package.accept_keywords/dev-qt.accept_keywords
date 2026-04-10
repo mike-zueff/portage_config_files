@@ -3,6 +3,7 @@ dev-qt/qtbase:6 -~amd64
 dev-qt/qtcharts:6 -~amd64
 dev-qt/qtconnectivity:6 -~amd64
 dev-qt/qtdeclarative:6 -~amd64
+dev-qt/qtgraphs:6 -~amd64
 dev-qt/qtmultimedia:6 -~amd64
 dev-qt/qtpositioning:6 -~amd64
 dev-qt/qtquick3d:6 -~amd64

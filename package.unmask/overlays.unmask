@@ -31,6 +31,7 @@ dev-php/theseer-directoryscanner::php-overlay
 dev-php/zetacomponents-base::php-overlay
 dev-php/zetacomponents-console-tools::php-overlay
 dev-util/bc-ur::guru
+media-fonts/nerdfonts::guru
 media-sound/deep-filter::guru
 net-misc/gdrive::guru
 net-p2p/feather::guru
