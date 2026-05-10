@@ -1,2 +1,4 @@
+sys-fs/ext4magic file-attr
 sys-fs/lvm2 lvm thin
+sys-fs/ntfs3g ntfsdecrypt
 sys-fs/zfs-auto-snapshot -cron

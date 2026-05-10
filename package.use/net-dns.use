@@ -1,1 +1,2 @@
+net-dns/bind doh
 net-dns/unbound threads
