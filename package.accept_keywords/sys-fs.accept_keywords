@@ -1,3 +1,2 @@
 sys-fs/zfs -~amd64
-sys-fs/zfs-auto-snapshot -~amd64
 sys-fs/zfs-kmod -~amd64
