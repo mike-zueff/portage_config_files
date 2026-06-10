@@ -1,1 +1,3 @@
+app-alternatives/cpio -libarchive
 app-alternatives/gzip -reference pigz
+app-alternatives/tar -libarchive
