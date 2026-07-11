@@ -1,1 +1,1 @@
-#sys-fs/zfs -~amd64
+sys-fs/zfs -~amd64
