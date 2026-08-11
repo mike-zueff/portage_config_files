@@ -1,5 +1,4 @@
 */*::guru
-*/*::overlay-from-plan9
 */*::pg_overlay
 */*::php-overlay
 */*::portage_sandbox
