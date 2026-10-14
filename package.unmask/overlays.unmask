@@ -1,3 +1,5 @@
+app-arch/libzim::guru
+app-arch/libzim::pg_overlay
 app-crypt/staticgpg::stunning_tools
 app-portage/genup::stunning_tools
 app-portage/showem::stunning_tools
